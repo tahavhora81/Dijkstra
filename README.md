@@ -9,8 +9,9 @@ Deployment Link :
 How to run file on local system?
 1. Download the complete repository on your system.
 2. Then, open the folder in terminal.
-3. Type 'node server.js' to start the webapp
-4. Go to the browser and type "localhost:3000/"
+3. Type 'npm init' to initialize and load all dependencies.
+4. Type 'node server.js' to start the webapp
+5. Go to the browser and type "localhost:3000/"
 
 NOTE: THE TOGETHER_AI API KEY IS NOT PROVIDED IN THE .env FILE FOR SECURITY REASONS.
 HENCE, FOR TESTING THE SITE IT IS PREFERRED TO GO TO (deployment link for the site)
