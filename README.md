@@ -4,7 +4,7 @@ Theme: Adaptive Learning Systems for Personalized Learning Plans
 
 Team Members: Taha Vhora
 
-Deployment Link : 
+Deployment Link : https://dijkstra-5dp4.onrender.com/
 
 How to run file on local system?
 1. Download the complete repository on your system.
@@ -14,7 +14,7 @@ How to run file on local system?
 5. Go to the browser and type "localhost:3000/"
 
 NOTE: THE TOGETHER_AI API KEY IS NOT PROVIDED IN THE .env FILE FOR SECURITY REASONS.
-HENCE, FOR TESTING THE SITE IT IS PREFERRED TO GO TO (deployment link for the site)
+HENCE, FOR TESTING THE SITE IT IS PREFERRED TO GO TO (deployment link for the site: https://dijkstra-5dp4.onrender.com/ )
 
 Technology/ Framework used:
 Frontend: 
